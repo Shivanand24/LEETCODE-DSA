@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
@@ -28,6 +29,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -71,20 +73,24 @@
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -106,4 +112,12 @@
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
