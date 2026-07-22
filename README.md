@@ -8,6 +8,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Math
 |  |
@@ -38,6 +39,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3620-network-recovery-pathways) |
@@ -61,6 +63,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -104,6 +107,7 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3620-network-recovery-pathways) |
