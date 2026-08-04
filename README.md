@@ -20,6 +20,7 @@
 | [0486-predict-the-winner](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0877-stone-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1406-stone-game-iii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
