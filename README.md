@@ -35,6 +35,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
