@@ -1,15 +1,24 @@
 class Solution {
 public:
-    bool uniformArray(vector<int>& nums1) {  // ✅ changed name
-        int odd_count = 0;
+    bool uniformArray(vector<int>& nums1) {
+        int count = 0;  // count evens
         
         for (int x : nums1) {
-            if (x % 2 != 0) odd_count++;
+            if (x % 2 == 0) count++;  // divisible by 2, remainder 0
         }
         
-        bool all_odd_possible  = odd_count >= 1;
-        bool all_even_possible = (odd_count == 0) || (odd_count >= 2);
-        
-        return all_odd_possible || all_even_possible;
+        if (count == (int)nums1.size()) {
+            // all even → even - even = even ✓
+            return true;
+        } else if (count == 0) {
+            // all odd → odd stays odd ✓
+            return true;
+        } else if (count == 1) {
+            // 1 even, rest odd → even - odd = odd ✓
+            return true;
+        } else {
+            // 2+ even with odds → odd - odd = even ✓
+            return true;
+        }
     }
 };
