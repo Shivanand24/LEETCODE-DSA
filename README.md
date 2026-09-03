@@ -48,6 +48,7 @@
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
