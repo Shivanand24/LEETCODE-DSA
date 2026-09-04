@@ -4,8 +4,8 @@ public:
         int i = 0;
         int j = 0;
         int m = nums.size() - 1;
-        int max_unit ;
-        int min_unit ;
+        int max_unit = INT_MIN ;
+        int min_unit = INT_MAX ;
         int t;
 
         // Loop through each possible index i
