@@ -257,6 +257,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -304,6 +305,7 @@
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0143-reorder-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -316,6 +318,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0486-predict-the-winner) |
 ## Game Theory
@@ -373,6 +376,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
