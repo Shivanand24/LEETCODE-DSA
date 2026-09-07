@@ -80,6 +80,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1260-shift-2d-grid) |
@@ -170,6 +171,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3312-sorted-gcd-pair-queries) |
