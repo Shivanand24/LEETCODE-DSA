@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0486-predict-the-winner) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0486-predict-the-winner) |
@@ -192,6 +194,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0055-jump-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
