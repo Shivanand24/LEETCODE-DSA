@@ -9,8 +9,7 @@ public:
 
             count += n - start + 1;
 
-            if (start > n / 1000)
-                break;
+            
 
             start *= 1000;
         }
