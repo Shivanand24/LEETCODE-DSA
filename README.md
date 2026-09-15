@@ -84,6 +84,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0486-predict-the-winner) |
