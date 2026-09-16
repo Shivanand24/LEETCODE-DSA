@@ -92,6 +92,7 @@
 | [0724-find-pivot-index](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0877-stone-game) |
+| [0986-interval-list-intersections](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0986-interval-list-intersections) |
 | [1140-stone-game-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1288-remove-covered-intervals) |
@@ -286,6 +287,7 @@
 | [0202-happy-number](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0986-interval-list-intersections) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -433,4 +435,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0836-rectangle-overlap) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
