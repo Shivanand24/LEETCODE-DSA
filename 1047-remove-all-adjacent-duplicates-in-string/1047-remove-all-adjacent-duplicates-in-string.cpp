@@ -4,7 +4,7 @@ public:
 
         stack<char> str;
         string res ;
-        int i;
+        
         for (int i = 0 ;i < s.size() ;i++){
             if (str.empty()){
                 str.push(s[i]);
