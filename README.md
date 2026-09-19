@@ -7,6 +7,7 @@
 | [0006-zigzag-conversion](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0006-zigzag-conversion) |
 | [0115-distinct-subsequences](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1927-sum-game) |
@@ -348,6 +349,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0143-reorder-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
