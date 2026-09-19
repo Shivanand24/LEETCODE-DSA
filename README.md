@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -348,6 +349,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0143-reorder-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -456,4 +458,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0986-interval-list-intersections) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
