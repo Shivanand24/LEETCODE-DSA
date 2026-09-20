@@ -99,6 +99,7 @@
 | [0503-next-greater-element-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0877-stone-game) |
 | [0986-interval-list-intersections](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0986-interval-list-intersections) |
@@ -355,12 +356,14 @@
 | [0020-valid-parentheses](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0143-reorder-list) |
 | [0503-next-greater-element-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Counting Sort
 |  |
