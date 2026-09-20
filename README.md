@@ -96,6 +96,7 @@
 | [0152-maximum-product-subarray](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0486-predict-the-winner) |
+| [0503-next-greater-element-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0835-image-overlap) |
@@ -353,11 +354,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0143-reorder-list) |
+| [0503-next-greater-element-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Counting Sort
 |  |
