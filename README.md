@@ -54,6 +54,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -132,6 +133,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -181,6 +183,7 @@
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
