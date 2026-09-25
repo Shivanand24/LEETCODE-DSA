@@ -10,6 +10,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1096-brace-expansion-ii) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1927-sum-game) |
@@ -157,6 +158,7 @@
 | [0141-linked-list-cycle](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0202-happy-number) |
+| [1096-brace-expansion-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -248,6 +250,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -340,6 +343,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -372,6 +376,7 @@
 | [0739-daily-temperatures](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1096-brace-expansion-ii) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
@@ -405,6 +410,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
