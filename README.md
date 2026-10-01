@@ -8,6 +8,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0131-palindrome-partitioning) |
 | [0940-distinct-subsequences-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -79,6 +80,7 @@
 | [0053-maximum-subarray](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0509-fibonacci-number) |
@@ -432,6 +434,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0046-permutations) |
+| [0131-palindrome-partitioning](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0131-palindrome-partitioning) |
 | [1096-brace-expansion-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
