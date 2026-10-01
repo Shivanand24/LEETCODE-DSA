@@ -1,10 +1,10 @@
 class Solution {
 public:
 
-    void getPerms(vector<int>& nums, int idx, vector<vector<int>>& ans) {
+    void getPerms(vector<int>& nums, int idx, int n ,vector<vector<int>>& ans) {
 
         // Base case
-        if (idx == nums.size()) {
+        if (idx == n) {
             ans.push_back(nums);
             return;
         }
@@ -16,7 +16,7 @@ public:
             swap(nums[idx], nums[i]);
 
             // Explore
-            getPerms(nums, idx + 1, ans);
+            getPerms(nums , idx + 1, n, ans);
 
             // Backtrack / Undo
             swap(nums[idx], nums[i]);
@@ -28,7 +28,9 @@ public:
         vector<vector<int>> ans;
         int idx = 0;
 
-        getPerms(nums, idx, ans);
+        int n = nums.size();
+
+        getPerms(nums, idx, n , ans);
 
         return ans;
     }
