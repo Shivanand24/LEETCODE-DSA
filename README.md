@@ -7,6 +7,7 @@
 | [0006-zigzag-conversion](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0131-palindrome-partitioning) |
 | [0940-distinct-subsequences-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -77,6 +78,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0115-distinct-subsequences) |
@@ -432,6 +434,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0131-palindrome-partitioning) |
@@ -516,6 +519,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
