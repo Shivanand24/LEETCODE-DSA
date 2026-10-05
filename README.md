@@ -44,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0509-fibonacci-number) |
@@ -85,6 +86,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0152-maximum-product-subarray) |
@@ -541,5 +543,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
