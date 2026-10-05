@@ -1,6 +1,10 @@
 class Solution {
 public:
 
+
+// memorization 
+
+
 //  int fun(int idx , vector< int> &dp , vector<int> &nums){
 //     if (idx == 0) return nums[idx];
 //     if (idx < 0) return 0;
@@ -22,6 +26,7 @@ public:
 //     }
 
 
+// space optimitization
 int rob(vector<int> &nums){
     int n = nums.size();
     int prev = nums[0];
