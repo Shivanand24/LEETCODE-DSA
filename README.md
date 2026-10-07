@@ -93,6 +93,7 @@
 | [0131-palindrome-partitioning](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0678-valid-parenthesis-string) |
@@ -126,6 +127,7 @@
 | [0152-maximum-product-subarray](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -299,6 +301,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -552,4 +555,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0509-fibonacci-number) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
