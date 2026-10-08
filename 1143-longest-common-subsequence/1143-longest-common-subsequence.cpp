@@ -20,9 +20,9 @@ int fun( string &s1 , string &s2 , int  n , int m , int i , int j ,vector<vector
         int i =0 ;
         int j =0;
 
-        vector<vector<int>>dp(n+1);
+        vector<vector<int>>dp(n);
         for (int i =0 ; i< n ;i++){
-            vector<int> t (m+1 , -1);
+            vector<int> t (m , -1);
             dp[i] = t;
         }
 
