@@ -48,6 +48,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0486-predict-the-winner) |
@@ -90,6 +91,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0131-palindrome-partitioning) |
@@ -403,6 +405,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
