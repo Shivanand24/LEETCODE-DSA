@@ -393,6 +393,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3310-remove-methods-from-project) |
@@ -430,6 +431,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0143-reorder-list) |
 | [0503-next-greater-element-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0678-valid-parenthesis-string) |
@@ -547,10 +549,12 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
