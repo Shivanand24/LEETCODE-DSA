@@ -95,6 +95,7 @@
 | [0062-unique-paths](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0198-house-robber) |
@@ -130,6 +131,7 @@
 | [0053-maximum-subarray](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0057-insert-interval) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0287-find-the-duplicate-number) |
