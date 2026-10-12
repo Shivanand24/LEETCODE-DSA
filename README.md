@@ -408,6 +408,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0301-remove-invalid-parentheses](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -560,6 +561,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -567,6 +569,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
