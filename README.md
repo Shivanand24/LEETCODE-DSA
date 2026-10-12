@@ -401,6 +401,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -409,6 +410,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0301-remove-invalid-parentheses](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0301-remove-invalid-parentheses) |
@@ -563,6 +565,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -572,6 +575,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0144-binary-tree-preorder-traversal) |
