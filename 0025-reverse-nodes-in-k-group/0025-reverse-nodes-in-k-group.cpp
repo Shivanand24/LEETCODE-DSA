@@ -31,7 +31,7 @@ void reverse(ListNode* left, int size) {
             return head;
 
         ListNode* left = head;
-        ListNode* right;
+        ListNode* right= NULL;
         int size = k;
         ListNode* res = NULL;
         ListNode* prevLeft = NULL;
