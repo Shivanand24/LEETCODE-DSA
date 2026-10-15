@@ -412,6 +412,7 @@
 | [0101-symmetric-tree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/3310-remove-methods-from-project) |
@@ -580,6 +581,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -591,6 +593,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
@@ -633,4 +636,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivanand24/LEETCODE-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
